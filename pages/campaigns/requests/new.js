@@ -12,7 +12,7 @@ class RequestNew extends Component {
     recipient: '',
     loading: false,
     errorMessage: ''
-  }
+  };
 
   static async getInitialProps(props) {
     const { address } = props.query;
