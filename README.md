@@ -15,6 +15,7 @@ With CrowdCoin, we aim to establish a direct peer to peer connection between the
 
 #### Code Details :
 All smart contracts in ethereum folder under contracts folder. (/ethereum/contracts/Campaign.sol)
+
 Web app related code under pages folder in index.js (/pages/index.js)
 
 #### How to run this web application ?
