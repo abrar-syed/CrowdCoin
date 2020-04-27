@@ -20,8 +20,11 @@ With CrowdCoin, we aim to establish a direct peer to peer connection between the
 4. It will probably start on localhost. 
 5. Copy and paste that link into your browser and see the working . 
 
-We have also included screenshots of the web app into our repo for your reference.
-Here is the link to our whitepaper for further details : https://docs.google.com/document/d/1ZQJM0ZvRq40fc3SpjKcZ1IBei-ThmGLK7lCqWjUOpBo/edit#
+###### DEMO Link : https://youtu.be/0npnzoLWCa8
+
+##### have also included screenshots of the web app into our repo for your reference.
+
+###### Here is the link to our whitepaper for further details : https://docs.google.com/document/d/1ZQJM0ZvRq40fc3SpjKcZ1IBei-ThmGLK7lCqWjUOpBo/edit#
 
 
 
