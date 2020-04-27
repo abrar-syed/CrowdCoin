@@ -17,8 +17,8 @@ With CrowdCoin, we aim to establish a direct peer to peer connection between the
 1. Clone this repository on to your system and make sure you are in the same directory in terminal.
 2. Run  npm install to download any missing dependencies in your system.
 3. Now run the server by the command  npm run start .
-4. It will probably start on localhost. 
-5. Copy and paste that link into your browser and see the working . 
+4. It will start on localhost. 
+5. Open localhost in your browser and see the working . 
 
 ###### DEMO Link : https://youtu.be/0npnzoLWCa8
 
