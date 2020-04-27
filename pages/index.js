@@ -3,6 +3,7 @@ import { Card, Button } from 'semantic-ui-react';
 import factory from '../ethereum/factory';
 import Layout from '../components/Layout';
 import { Link } from '../routes';
+import {Helmet} from 'react-helmet';
 
 class CampaignIndex extends Component {
   static async getInitialProps() {
@@ -16,11 +17,16 @@ class CampaignIndex extends Component {
       return {
         header: address,
         description: (
-          <Link route={`/campaigns/${address}`}>
-            <a>View Campaign</a>
-          </Link>
+
+
+            <Link route={`/campaigns/${address}`}>
+              <a>View Campaign</a>
+            </Link>
+
         ),
-        fluid: true
+        fluid: true,
+        color: 'blue'
+
       };
     });
 
@@ -29,8 +35,15 @@ class CampaignIndex extends Component {
 
   render() {
     return (
+    <React.Fragment>
+
+
       <Layout>
+        <style>{'body { background-color:white; }'}</style>
+
         <div>
+
+
           <h3>Open Campaigns</h3>
 
           <Link route="/campaigns/new">
@@ -47,6 +60,8 @@ class CampaignIndex extends Component {
           {this.renderCampaigns()}
         </div>
       </Layout>
+
+  </React.Fragment>
     );
   }
 }
