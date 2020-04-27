@@ -14,7 +14,7 @@ As for creators, most crowdfunding platforms made it mandatory for investors to 
 With CrowdCoin, we aim to establish a direct peer to peer connection between the funder and the inventor. A vendor makes a request which is sent to gain approval by the network of funders. Once approved, money is then sent via smart contracts which holds and releases finances to the vendor. If the request is not approved, finances will not be sent to the vendor.  In utilizing digital ledger technology, each step of a vendor's process which requires additional funding will display how the backers investment is spent. Each step of a contract must be completed for additional finances to be received. This process ensures accountability and transparency in every step of the process. 
 
 #### How to run this web application ?
-1. Clone this repository on to your system and make sure in the same directory in terminal.
+1. Clone this repository on to your system and make sure you are in the same directory in terminal.
 2. Run  npm install to download any missing dependencies in your system.
 3. Now run the server by the command  npm run start .
 4. It will probably start on localhost. 
