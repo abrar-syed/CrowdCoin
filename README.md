@@ -27,9 +27,8 @@ Web app related code under pages folder in index.js (/pages/index.js)
 
 #### DEMO Link : https://youtu.be/0npnzoLWCa8
 
-#### We have also included screenshots of the web app into our repo for your reference.
+#### We have also included the whitepaper and screenshots of the web app into our repo for your reference.
 
-##### Here is the link to our Whitepaper for further details : https://docs.google.com/document/d/1ZQJM0ZvRq40fc3SpjKcZ1IBei-ThmGLK7lCqWjUOpBo/edit#
 
 
 
